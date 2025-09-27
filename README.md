@@ -1,6 +1,7 @@
 # Solving the Langevin equation
 
 This python notebook contains notes, explicit calculations and numerical results for the Langevin equations.<br>
+It is quite old and needs some cleanup.<br>
 Summary: 
 ## Mean square displacement
 The Langevin equation
