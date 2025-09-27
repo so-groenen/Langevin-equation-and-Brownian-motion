@@ -24,6 +24,7 @@ $$
 The Kubo-Green formula links the (dissipative) diffusion constant to the (fluctuating) velocity correlator at thermal equilibrium:
 
 $$ D = \lim_{t\to \infty} \frac{|\Delta r(t)|^2}{2t}  = \int_0^\infty dt \Big\langle v(t)v(0) \Big\rangle = v_T^2 \tau$$
+
 We can use it to numerically infer the diffusion constant (using the same heat bath correlation times):
 
 <center><img src="langevin_results/Green_Kubo_Brownian_Diffusion_coeff.jpg" width="800"></center>
