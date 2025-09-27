@@ -256,6 +256,4 @@ class Langevin_data_analyzer:
 
         plt.show()
 
-
-    # def write_files_to_save(self):
-    #     pass 
+ 
